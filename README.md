@@ -1,4 +1,3 @@
 # Acessem o site:
-# http://heitorsistema.github.io/ffe-discos-mpb
-Criação do Website utilizando Grid system
-Site semelhando ao portal do IFMT
+# http://heitorsistema.github.io/ffe-site-parecido
+Criação do Website utilizando Grid system, site semelhando ao portal do IFMT
